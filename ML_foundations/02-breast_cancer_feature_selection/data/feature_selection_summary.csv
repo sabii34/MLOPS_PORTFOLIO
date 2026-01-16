@@ -1,0 +1,31 @@
+,chi2_top10,mi_top10,rfe_top10,rf_top10
+mean radius,True,True,True,True
+mean texture,True,False,False,False
+mean perimeter,True,True,False,True
+mean area,True,True,False,True
+mean smoothness,False,False,False,False
+mean compactness,False,False,False,False
+mean concavity,False,True,True,True
+mean concave points,False,True,True,True
+mean symmetry,False,False,False,False
+mean fractal dimension,False,False,False,False
+radius error,False,False,False,False
+texture error,False,False,False,False
+perimeter error,True,False,True,False
+area error,True,True,True,False
+smoothness error,False,False,False,False
+compactness error,False,False,False,False
+concavity error,False,False,False,False
+concave points error,False,False,False,False
+symmetry error,False,False,False,False
+fractal dimension error,False,False,False,False
+worst radius,True,True,True,True
+worst texture,True,False,False,False
+worst perimeter,True,True,True,True
+worst area,True,True,False,True
+worst smoothness,False,False,False,False
+worst compactness,False,False,True,False
+worst concavity,False,False,True,True
+worst concave points,False,True,True,True
+worst symmetry,False,False,False,False
+worst fractal dimension,False,False,False,False
